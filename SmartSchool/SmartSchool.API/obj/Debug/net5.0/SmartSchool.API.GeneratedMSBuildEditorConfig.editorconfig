@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = SmartSchool.API
+build_property.ProjectDir = c:\Users\Usuario\Desktop\CURSOS\UDEMY\Web API com Asp .NET Core + EF Core + Docker\Estudos\Secao03\VSCode\SmartSchool\SmartSchool.API\
